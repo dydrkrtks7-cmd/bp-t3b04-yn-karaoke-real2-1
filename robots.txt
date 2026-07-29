@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mapo-hyperpublic-note.cheongdam-shirts-zone.xyz/sitemap.xml
