@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mapo-hyperpublic-note.cheongdam-shirts-zone.xyz/sitemap.xml
+Sitemap: https://mapo-hyperpublic-note.cheongdam-shirts-zone.xyz/sitemap-pages.xml
